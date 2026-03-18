@@ -21,12 +21,6 @@ class _SignInScreenState extends State<SignInScreen> {
   );
   bool _visible = false;
 
-  void _fillDemoAccount(String email) {
-    _emailController.text = email;
-    _passwordController.text = '123456';
-    setState(() {});
-  }
-
   @override
   void initState() {
     super.initState();

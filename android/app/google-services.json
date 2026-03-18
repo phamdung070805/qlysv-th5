@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619234152666",
+    "project_id": "ltandroi-th5",
+    "storage_bucket": "ltandroi-th5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619234152666:android:0b7b087a6aeff7e2fb15e3",
+        "android_client_info": {
+          "package_name": "com.example.quanlysinhvien"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbxU3X4PISb-FWxxyOHtI1nlkqXdah1lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
